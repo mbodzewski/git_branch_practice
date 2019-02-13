@@ -1,1 +1,2 @@
-print("This is a different message")
+print("New message")
+
